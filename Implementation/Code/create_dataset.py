@@ -19,7 +19,7 @@ def create_bivariate(cov, mean, n_points, seed=101):
     X = distr.rvs(size=n_points)
     return X
 
-# Standardize=ing the dataset to ensure that features have zero mean and unit variance.
+# Standardizing the dataset to ensure that features have zero mean and unit variance.
 def standardize_data(X):
     """
     Parameters:
