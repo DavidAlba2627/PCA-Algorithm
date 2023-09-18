@@ -30,8 +30,8 @@ Principal Component Analysis (PCA) is a cornerstone in the vast realm of data sc
 
 The codebase is crafted with precision, ensuring modularity and clarity for easy adaptation.
 
-- **Data Synthesis**: [create_dataset.py](./Implementation/Code/create_dataset.py)
-- **PCA Logic**: [pca_function.py](./Implementation/Code/pca_function.py)
+- **Data Generation**: [create_dataset.py](./Implementation/Code/create_dataset.py)
+- **PCA Algorithm**: [pca_function.py](./Implementation/Code/pca_function.py)
 - **Visualization**: [visualize_results.py](./Implementation/Code/visualize_results.py)
 - **Demonstration**: [pca_demo.py](./Implementation/Code/pca_demo.py)
 
