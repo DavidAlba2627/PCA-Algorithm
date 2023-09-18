@@ -3,7 +3,7 @@
 Welcome to the PCA Algorithm repository, another chapter in my journey through machine learning algorithms, as chronicled on my blog [Data Science For Lifelong Learning](https://datasciencelifelonglearn.blogspot.com). This repository is meticulously designed to provide both beginners and seasoned professionals with an in-depth understanding of the PCA algorithm, its applications, and its pivotal role in dimensionality reduction.
 
 <p align="left">
-  <img src="./Implementation/Images/pca_visualization.png" alt="PCA Banner" width="400"> <!-- Adjust the width value as needed -->
+  <img src="./Images/GIF.gif" alt="PCA Banner" width="500"> <!-- Adjust the width value as needed -->
 </p>
 
 ## Table of Contents
