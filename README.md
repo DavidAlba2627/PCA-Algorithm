@@ -28,7 +28,7 @@ Principal Component Analysis (PCA) is a cornerstone in the vast realm of data sc
 
 ## Python Implementation
 
-The codebase is crafted with precision, ensuring modularity and clarity for easy adaptation.
+The code-base was designed with high precision, ensuring modularity and clarity for easy adaptation.
 
 - **Data Generation**: [create_dataset.py](./Implementation/Code/create_dataset.py)
 - **PCA Algorithm**: [pca_function.py](./Implementation/Code/pca_function.py)
